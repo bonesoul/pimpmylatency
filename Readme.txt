@@ -1,0 +1,1 @@
+Check installation & documentation at http://www.pimpmylatency.com

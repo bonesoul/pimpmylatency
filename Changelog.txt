@@ -1,0 +1,13 @@
+0.2.0.0 - 19.11.2008 - Svn Revision 23
+--------------------------------------
+
+* Fixed VPS Providers Window bugs
+* Added trackbar for VPS Providers Windows so that user can change the ping interval
+* Fixed missing SSH keys bug
+* Now VPS Providers ping are threaded and does not limit the interface responsiveness
+* Added a new feature: VPS Providers Window
+
+0.1.0.0 - 17.11.2008
+--------------------
+
+* first alpha release

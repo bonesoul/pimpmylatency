@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<freecap>
+  <Main>
+    <param name='Log' value='0'/>
+    <param name='LogFile' value=''/>
+    <param name='LogTraffic' value='0'/>
+    <param name='LogLevel' value='0'/>
+    <param name='LogHeight' value='88'/>
+    <param name='UDPHack' value='0'/>
+    <param name='OneInstance' value='1'/>
+    <param name='SysStartup' value='0'/>
+    <param name='RunTray' value='0'/>
+    <param name='MinimizeToTray' value='0'/>
+    <param name='ViewStyle' value='0'/>
+    <param name='ResolveDNS' value='2'/>
+    <param name='AddToCaptionText' value='0'/>
+    <param name='ShowMessages' value='1'/>
+    <param name='HideOnClose' value='1'/>
+    <param name='Language' value='0'/>
+    <param name='NavTreeWidth' value='152'/>
+  </Main>
+  <sockschain>
+    <server name='00000001'>
+      <param name='Server' value='127.0.0.1'/>
+      <param name='Port' value='6666'/>
+      <param name='Version' value='5'/>
+      <param name='Login' value=''/>
+      <param name='Socks4Ident' value=''/>
+      <param name='Password' value=''/>
+      <param name='HttpUser' value=''/>
+      <param name='HttpPass' value=''/>
+      <param name='HttpAuth' value='0'/>
+      <param name='InUse' value='1'/>
+      <param name='Auth' value='0'/>
+    </server>
+  </sockschain>
+</freecap>

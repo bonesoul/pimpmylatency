@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<provider_list>
+  <provider>
+    <name>Linode</name>
+    <address>www.linode.com</address>
+    <location>US</location>
+  </provider>
+  <provider>
+    <name>Slicehost</name>
+    <address>www.slicehost.com</address>
+    <location>US</location>
+  </provider>
+  <provider>
+    <name>Gandi</name>
+    <address>www.gandi.net</address>
+    <location>France</location>
+  </provider>
+  <provider>
+    <name>Xencon</name>
+    <address>www.xencon.net</address>
+    <location>Germany</location>
+  </provider>
+  <provider>
+    <name>Aihs</name>
+    <address>www.aihs.net</address>
+    <location>Germany</location>
+  </provider>
+  <provider>
+    <name>HostEurope</name>
+    <address>www.hosteurope.de</address>
+    <location>Germany</location>
+  </provider>
+  <provider>
+    <name>SolidHost</name>
+    <address>www.solidhost.com</address>
+    <location>Netherlands</location>
+  </provider>
+  <provider>
+    <name>ContextShift</name>
+    <address>www.contextshift.eu</address>
+    <location>Netherlands</location>
+  </provider>
+  <provider>
+    <name>BudgetDedicated</name>
+    <address>www.budgetdedicated.com</address>
+    <location>Netherlands</location>
+  </provider>
+  <provider>
+    <name>EuroVPS</name>
+    <address>www.eurovps.com</address>
+    <location>Netherlands</location>
+  </provider>
+
+
+
+</provider_list>
